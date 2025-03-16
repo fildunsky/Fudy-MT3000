@@ -1,9 +1,12 @@
-# Fudy-MT3000
+# Fudy MT3000
 Huasifei WH3000 / Fudy MT3000 OpenWRT firmwares
+I build for myself and just for fun
 
 Vanilla versions, no packages added. All kmods (kernel modules) can be installed via the official repo.
 After booting, there is an open `Openwrt` Wi-Fi network. The `root` has no password.
-Please, don't update the `base-files` package; there is a bug with the Read-Only filesystem after that, which can be fixed via uboot sysupgrade flashing.
+
+## ! DO NOT update the `base-files` package!
+There is a bug with the Read-Only filesystem after that, which can be fixed via uboot sysupgrade flashing only. If you know how to solve it, let me know.
 
 [OpenWRT 23.05.5](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/openwrt-23.05.5-mediatek-filogic-huasifei_wh3000-emmc-squashfs-sysupgrade.bin)
 
