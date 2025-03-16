@@ -17,9 +17,9 @@ I build it for myself, just for fun
 Vanilla versions, no packages added. All kmods (kernel modules) can be installed via the official repo.
 After booting, there is an open `Openwrt` Wi-Fi network. The `root` has no password. IP: `192.168.1.1`
 
-[OpenWRT 23.05.5](https://github.com/fildunsky/Fudy-MT3000/blob/main/23.05.5/openwrt-23.05.5-mediatek-filogic-huasifei_wh3000-emmc-squashfs-sysupgrade.bin)
+[OpenWRT 23.05.5](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/OpenWRT%2023.05.5/openwrt-23.05.5-mediatek-filogic-huasifei_wh3000-emmc-squashfs-sysupgrade.bin)
 
-[OpenWRT 24.10.0](https://github.com/fildunsky/Fudy-MT3000/blob/main/24.10.0/openwrt-24.10.0-mediatek-filogic-huasifei_wh3000-emmc-squashfs-sysupgrade.bin)
+[OpenWRT 24.10.0](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/OpenWRT%2024.10.0/openwrt-24.10.0-mediatek-filogic-huasifei_wh3000-emmc-squashfs-sysupgrade.bin)
 
 
 ## LEDE build [from source](https://github.com/coolsnowwolf/lede)
@@ -42,7 +42,7 @@ IP: `192.168.1.1`
 login: `root`
 password: `password`
 
-[R25.3.15](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/LEDE/openwrt-mediatek-filogic-huasifei_wh3000-emmc-squashfs-sysupgrade.bin)
+[R25.3.15](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/LEDE%2025.3.15/openwrt-mediatek-filogic-huasifei_wh3000-emmc-squashfs-sysupgrade.bin)
 Has many preinstalled packages and the most recent kernel.
 
 # ! DO NOT update the `base-files` package!
