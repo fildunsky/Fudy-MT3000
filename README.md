@@ -2,6 +2,18 @@
 Huasifei WH3000 / Fudy MT3000 OpenWRT firmwares
 I build for myself and just for fun
 
+```
+  _______                     ________        __
+ |       |.-----.-----.-----.|  |  |  |.----.|  |_
+ |   -   ||  _  |  -__|     ||  |  |  ||   _||   _|
+ |_______||   __|_____|__|__||________||__|  |____|
+          |__| W I R E L E S S   F R E E D O M
+ -----------------------------------------------------
+ OpenWrt 24.10.0, r28427-6df0e3d02a
+ OpenWrt 23.05.5, r24106-10cc5fcd00
+ -----------------------------------------------------
+```
+
 Vanilla versions, no packages added. All kmods (kernel modules) can be installed via the official repo.
 After booting, there is an open `Openwrt` Wi-Fi network. The `root` has no password.
 
