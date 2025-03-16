@@ -17,9 +17,7 @@ I build it for myself, just for fun
 Vanilla versions, no packages added. All kmods (kernel modules) can be installed via the official repo.
 After booting, there is an open `Openwrt` Wi-Fi network. The `root` has no password. IP: `192.168.1.1`
 
-[OpenWRT 23.05.5](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/OpenWRT%2023.05.5/openwrt-23.05.5-mediatek-filogic-huasifei_wh3000-emmc-squashfs-sysupgrade.bin)
-
-[OpenWRT 24.10.0](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/OpenWRT%2024.10.0/openwrt-24.10.0-mediatek-filogic-huasifei_wh3000-emmc-squashfs-sysupgrade.bin)
+[OpenWRT 23.05.5](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/OpenWRT%2023.05.5/openwrt-23.05.5-mediatek-filogic-huasifei_wh3000-emmc-squashfs-sysupgrade.bin) | [OpenWRT 24.10.0](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/OpenWRT%2024.10.0/openwrt-24.10.0-mediatek-filogic-huasifei_wh3000-emmc-squashfs-sysupgrade.bin)
 
 
 ## LEDE build [from source](https://github.com/coolsnowwolf/lede)
@@ -45,5 +43,5 @@ password: `password`
 [R25.3.15](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/LEDE%2025.3.15/openwrt-mediatek-filogic-huasifei_wh3000-emmc-squashfs-sysupgrade.bin)
 Many preinstalled packages, Argon theme, Zerotier, Wifi schedule, kmod-tun, kmod-nft-tproxy, and the most recent kernel.
 
-# ! For LEDE: DO NOT update the `base-files` package!
+### ! For LEDE: DO NOT update the `base-files` package!
 There is a bug with the Read-Only filesystem after that, which can be fixed via uboot sysupgrade flashing only. If you know how to solve it, drop me a line.
