@@ -43,7 +43,7 @@ login: `root`
 password: `password`
 
 [R25.3.15](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/LEDE%2025.3.15/openwrt-mediatek-filogic-huasifei_wh3000-emmc-squashfs-sysupgrade.bin)
-Has many preinstalled packages and the most recent kernel.
+Many preinstalled packages, Argon theme, Zerotier, Wifi schedule, kmod-tun, kmod-nft-tproxy, and the most recent kernel.
 
 # ! DO NOT update the `base-files` package!
 There is a bug with the Read-Only filesystem after that, which can be fixed via uboot sysupgrade flashing only. If you know how to solve it, let me know.
