@@ -46,9 +46,7 @@ Many preinstalled packages, Argon theme, Zerotier, Wifi schedule, kmod-tun, kmod
 ### ! For LEDE: DO NOT update the `base-files` package!
 There is a bug with the Read-Only filesystem after that, which can be fixed via uboot sysupgrade flashing only. If you know how to solve it, drop me a line.
 
-## ImmortalWrt-mt798x-24.10
-### with closed source Mediatek drivers from PadavanOnly
-[padavanonly/immortalwrt-mt798x-24.10](https://github.com/padavanonly/immortalwrt-mt798x-24.10)
+## ImmortalWrt-mt798x-24.10 with closed source Mediatek drivers from [PadavanOnly](https://github.com/padavanonly/immortalwrt-mt798x-24.10)
 
 Everything seems to work fine, but still testing...
 
