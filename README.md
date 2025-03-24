@@ -61,3 +61,5 @@ Everything seems to work fine, but still testing...
  ImmortalWrt 24.10-SNAPSHOT, r32993-3c4e606420
  -----------------------------------------------------
 ```
+
+After booting, there are open `ImmortalWrt-2.4G` & `ImmortalWrt-5G` Wi-Fi networks. The `root` has no password. IP: `192.168.6.1`
