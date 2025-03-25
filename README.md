@@ -63,3 +63,22 @@ Everything seems to work fine, but still testing...
 ```
 
 After booting, there are open `ImmortalWrt-2.4G` & `ImmortalWrt-5G` Wi-Fi networks. The `root` has no password. IP: `192.168.6.1`
+
+## QWRT Factory stock firmwares
+I've got these files from Huasifei support. Uploading here for collection.
+
+```
+            _______       ___       _________________
+            __  __ \      __ |     / /__  __ \__  __/
+            _  / / /________ | /| / /__  /_/ /_  /
+            / /_/ /_/_____/_ |/ |/ / _  _, _/_  /
+            \___\_\       ____/|__/  /_/ |_| /_/
+ 
+                                        http://www.q-wrt.com
+                 The core of SmartRouters
+ -----------------------------------------------------------
+                OpenWrt 23.05.0, r6188-b9d04f128
+ -----------------------------------------------------------
+```
+
+After booting, there are open `QWRT-2.4G` & `QWRT-5G` Wi-Fi networks. The `root` password is `password`. IP: `192.168.1.1`
