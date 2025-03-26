@@ -1,0 +1,7 @@
+#!/bin/sh
+
+echo 0 > /sys/block/mmcblk0boot0/force_ro
+dd if=/dev/zero of=/dev/mmcblk0boot0 bs=512 count=8192 conv=fsync
+dd if=/etc/bl2/fudy-tr3000-1.3g-bl2.bin of=/dev/mmcblk0boot0 bs=512 conv=fsync
+sync
+reboot
