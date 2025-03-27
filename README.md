@@ -65,6 +65,8 @@ After booting, there are open `ImmortalWrt-2.4G` & `ImmortalWrt-5G` Wi-Fi networ
 
 [immortalwrt-mt798x-24.10-supgrade](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/immortalwrt-mt798x-24.10%20PadavanOnly/immortalwrt-mediatek-mt7981-huasifei_wh3000-emmc-squashfs-sysupgrade.bin)
 
+P.S. For tests only. Zerotier is not working on this firmware. If you know how to fix it, let me know.
+
 ## QWRT Factory stock firmwares
 I've got these files from Huasifei support. Uploading here for collection.
 
@@ -86,3 +88,5 @@ After booting, there are open `QWRT-2.4G` & `QWRT-5G` Wi-Fi networks. The `root`
 [QWRT-R24.12.30](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/QWRT%20Factory%20Stock/QWRT-R24.12.30-mediatek-mt7981-mt7981-huasifei-wh3000-emmc-squashfs-sysupgrade.bin)
 
 [QWRT-R25.01.18](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/QWRT%20Factory%20Stock/QWRT-R25.01.18-mediatek-mt7981-mt7981-huasifei-wh3000-emmc-squashfs-sysupgrade.bin)
+
+[QWRT-R25.03.17](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/QWRT%20Factory%20Stock/QWRT-R25.03.17-mediatek-mt7981-mt7981-huasifei-wh3000-emmc-squashfs-sysupgrade.bin)
