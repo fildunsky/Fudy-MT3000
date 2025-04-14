@@ -18,7 +18,11 @@ Vanilla versions, no packages added. All kmods (kernel modules) can be installed
 After booting, there is an open `Openwrt` Wi-Fi network. The `root` has no password. IP: `192.168.1.1`
 
 [OpenWRT 23.05.5](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/OpenWRT%2023.05.5/openwrt-23.05.5-mediatek-filogic-huasifei_wh3000-emmc-squashfs-sysupgrade.bin)
+
 [OpenWRT 24.10.0](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/OpenWRT%2024.10.0/openwrt-24.10.0-mediatek-filogic-huasifei_wh3000-emmc-squashfs-sysupgrade.bin)
+
+`*******************************************************************************`
+
 [OpenWRT 24.10.1 from Firmware Selector, wifi disabled by default](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/OpenWRT%2024.10.1/openwrt-24.10.1-mediatek-filogic-huasifei_wh3000-squashfs-sysupgrade.bin)
 
 ## LEDE build [from source](https://github.com/coolsnowwolf/lede)
