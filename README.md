@@ -1,6 +1,8 @@
 # Huasifei WH3000 v1
 Huasifei WH3000 eMMC / Fudy MT3000 OpenWRT firmwares
-I build it for myself, just for fun
+Building for myself, just for fun.
+
+You can `sysupgrade -F` them to `v2`. Everything works fine (reported by one `v2` user), but there will be no fan controls.
 
 ```
   _______                     ________        __
