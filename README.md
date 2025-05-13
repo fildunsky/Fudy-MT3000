@@ -95,3 +95,16 @@ After booting, there are open `QWRT-2.4G` & `QWRT-5G` Wi-Fi networks. The `root`
 [QWRT-R25.03.17](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/QWRT%20Factory%20Stock/QWRT-R25.03.17-mediatek-mt7981-mt7981-huasifei-wh3000-emmc-squashfs-sysupgrade.bin)
 
 [QWRT-R25.04.10](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/QWRT%20Factory%20Stock/QWRT-R25.04.10-mediatek-mt7981-mt7981-huasifei-wh3000-emmc-squashfs-sysupgrade.bin)
+
+# Cudy TR3000 v1 (OpenWrt U-Boot layout)
+Vanilla OpenWRT 24.10.1 for 112mb layout only! Compatible with official ImmortalWRT 24.10.1 u-boot layout, 89.6mb free space for packages after installation. Flash it only if you changed `FIP` to the 112mb version! Otherwise, you will brick your device.
+```
+  _______                     ________        __
+ |       |.-----.-----.-----.|  |  |  |.----.|  |_
+ |   -   ||  _  |  -__|     ||  |  |  ||   _||   _|
+ |_______||   __|_____|__|__||________||__|  |____|
+          |__| W I R E L E S S   F R E E D O M
+ -----------------------------------------------------
+ OpenWrt 24.10.1, r28597-0425664679
+```
+[24.10.1 ubootmod](https://github.com/fildunsky/Fudy-MT3000/raw/ed89528dc06bcfbbfb528995344a3062ff738af8/OpenWRT%2024.10.1/openwrt-24.10.1-mediatek-filogic-cudy_tr3000-v1-ubootmod-squashfs-sysupgrade.itb)
