@@ -108,3 +108,7 @@ Vanilla OpenWRT 24.10.1 for maxed 114mb layout only! I've just cherry-picked [th
  OpenWrt 24.10.1, r28597-0425664679
 ```
 [24.10.1 ubootmod](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/OpenWRT%2024.10.1/openwrt-24.10.1-mediatek-filogic-cudy_tr3000-v1-ubootmod-squashfs-sysupgrade.itb)
+
+# Cudy TR3000 256mb v1
+
+[OpenWrt 24.10.2](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/OpenWRT%2024.10.2/openwrt-24.10.2-mediatek-filogic-cudy_tr3000-256mb-v1-squashfs-sysupgrade.bin)
