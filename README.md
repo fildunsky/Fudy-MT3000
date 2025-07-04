@@ -116,3 +116,5 @@ Vanilla OpenWRT 24.10.1 for maxed 114mb layout only! I've just cherry-picked [th
 # Huasifei WH3000 Pro
 
 [OpenWrt 24.10.2](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/OpenWRT%2024.10.2/openwrt-24.10.2-mediatek-filogic-huasifei_wh3000-pro-squashfs-sysupgrade.bin)
+
+[Factory QWRT_R25.06.01](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/QWRT%20Factory%20Stock/QWRT_R25_06_01_mediatek_mt7981_huasifei_fudy_pro_squashfs_sysupgrade.bin)
