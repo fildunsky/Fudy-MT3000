@@ -1,0 +1,35 @@
+<script type="text/javascript">//<![CDATA[
+XHR.poll(3, '<%=url([[admin]], [[system]], [[fancontrol]], [[status]])%>', null,
+	function(x, data) {
+		var tb = document.getElementById('fancontrol_status');
+		if (data && tb) {
+			if (data.running) {
+				var str1 = '<b><font color=green><%:Fan Control%> <%:RUNNING%> </font></b><br>';
+				var str2 = data.speed;
+				var str3 = data.temp;
+				tb.innerHTML = str1 + '<b><font color=green><%:Fan Speed%>' + ': ' + str2 +'</font></b>' + ' <b><font color=green><br><%:Current Temperature%>' + ': ' + str3+'°C' +'</font></b>';
+			} else {
+				tb.innerHTML = '<b><font color=red><%:Fan Control%> <%:NOT RUNNING%> </font></b>';
+			}
+		}
+	}
+);
+//]]>
+</script>
+<style>.mar-10 {margin-left: 50px; margin-right: 10px;}
+input[name="cbid.fancontrol.settings.fan_file"] {
+    min-width: 320px;
+    width: 60%;
+    font-family: monospace;
+}
+input[name="cbid.fancontrol.settings.thermal_file"] {
+    min-width: 320px;
+    width: 60%;
+    font-family: monospace;
+}
+</style>
+<fieldset class="cbi-section">
+	<p id="fancontrol_status">
+		<%:Collecting data...%>
+	</p>
+</fieldset>

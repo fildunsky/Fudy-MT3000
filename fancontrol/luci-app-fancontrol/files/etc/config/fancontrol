@@ -1,0 +1,8 @@
+config fancontrol 'settings'
+	option thermal_file '/sys/devices/virtual/thermal/thermal_zone0/temp'
+	option start_speed '35'
+	option max_speed '255'
+	option temp_div '1000'
+	option enabled '1'
+	option fan_file '/sys/devices/platform/pwm-fan/hwmon/hwmon2/pwm1'
+	option start_temp '55'
