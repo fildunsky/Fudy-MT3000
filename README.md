@@ -1,3 +1,9 @@
+This repo started as an OpenWrt firmware storage for one device but now has this firmwares:
+- Cudy TR3000 v1 (OpenWrt U-Boot layout)
+- Cudy TR3000 256mb v1
+- Huasifei WH3000
+- Huasifei WH3000 Pro
+
 # Huasifei WH3000 v1
 Huasifei WH3000 eMMC / Fudy MT3000 OpenWRT firmwares
 Building for myself, just for fun.
