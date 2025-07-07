@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Language: ru\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# controller/fancontrol.lua
+msgid "Fan Control"
+msgstr "Вентилятор"
+
+# model/cbi/fancontrol.lua
+msgid "General fan control settings"
+msgstr "Общие настройки управления вентилятором"
+
+msgid "Enabled"
+msgstr "Включено"
+
+msgid "Fan speed adjust reading path"
+msgstr "Путь управления скоростью вентилятора"
+
+msgid "Thermal value reading path"
+msgstr "Путь файла температуры процессора"
+
+msgid "Temperature division"
+msgstr "Делитель температуры"
+
+msgid "1000"
+msgstr "1000"
+
+msgid "100"
+msgstr "100"
+
+msgid "10"
+msgstr "10"
+
+msgid "1"
+msgstr "1"
+
+msgid "Fan speed mode"
+msgstr "Режим скорости"
+
+msgid "Silent"
+msgstr "Тихий"
+
+msgid "Balance"
+msgstr "Баланс"
+
+msgid "Performance"
+msgstr "Производительный"
+
+msgid "Disabled"
+msgstr "Отключено"
+
+msgid "PWM fan type"
+msgstr "Тип вентилятора"
+
+msgid "1000 RPM"
+msgstr "1000 об/мин"
+
+msgid "1500 RPM"
+msgstr "1500 об/мин"
+
+msgid "2500+ RPM"
+msgstr "Более 2500 об/мин"
+
+# view/fancontrol_status.htm
+msgid "RUNNING"
+msgstr "РАБОТАЕТ"
+
+msgid "NOT RUNNING"
+msgstr "НЕ РАБОТАЕТ"
+
+msgid "Fan Speed"
+msgstr "Скорость вентилятора"
+
+msgid "Current Temperature"
+msgstr "Текущая температура"
+
+msgid "Collecting data..."
+msgstr "Сбор данных..."
+

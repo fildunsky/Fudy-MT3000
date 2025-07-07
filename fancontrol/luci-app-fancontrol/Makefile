@@ -4,7 +4,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=luci-app-fancontrol
-PKG_VERSION:=1-17
+PKG_VERSION:=1-20
 PKG_RELEASE:=1
 PKG_MAINTAINER:=dunsky <filipp.dunsky@gmail.com>
 
