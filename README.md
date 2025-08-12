@@ -69,4 +69,4 @@ Vanilla OpenWRT 24.10.2 for maxed 114mb layout only! I've just cherry-picked [th
 
 # CMCC RAX3000Me NAND USB version
 
-[OpenWrt 24.10.2](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/OpenWRT%2024.10.2/openwrt-24.10.2-mediatek-filogic-cmcc_rax3000me-squashfs-sysupgrade.itb)
+[OpenWrt 24.10.2](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/OpenWRT%2024.10.2/openwrt-24.10.2-mediatek-filogic-cmcc_rax3000me-squashfs-sysupgrade.itb) - flash the sysupgrade on top of ImmortalWrt 24.10.2 without saving the settings. You should use ImmortalWrt uboot from firmware-selector.immortalwrt.org. This firmware is tested on CMCC RAX3000Me NAND version with USB only. 
