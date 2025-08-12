@@ -1,4 +1,5 @@
 This repo started as an OpenWrt firmware storage for one device but now has this firmwares:
+- CMCC RAX3000Me Nand USB (ImmortalWrt U-boot)
 - Cudy TR3000 v1 (OpenWrt U-Boot layout)
 - Cudy TR3000 256mb v1
 - Huasifei WH3000
