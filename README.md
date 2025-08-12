@@ -50,6 +50,15 @@ After booting, there are open `QWRT-2.4G` & `QWRT-5G` Wi-Fi networks. The `root`
 [QWRT-R25.04.10](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/QWRT%20Factory%20Stock/QWRT-R25.04.10-mediatek-mt7981-mt7981-huasifei-wh3000-emmc-squashfs-sysupgrade.bin)
 
 # Huasifei WH3000 Pro
+```
+    dMP dMP dMP dMP .aMMMb  .dMMMb  dMP dMMMMMP dMMMMMP dMP 
+   dMP dMP dMP dMP dMP"dMP dMP" VP amr dMP     dMP     amr  
+  dMMMMMP dMP dMP dMMMMMP  VMMMb  dMP dMMMP   dMMMP   dMP   
+ dMP dMP dMP.aMP dMP dMP dP .dMP dMP dMP     dMP     dMP    
+dMP dMP  VMMMP" dMP dMP  VMMMP" dMP dMP     dMMMMMP dMP     
+
+         Huasifei WH3000 Pro, OpenWrt 24.10.2
+```
 
 [OpenWrt 24.10.2](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/OpenWRT%2024.10.2/openwrt-24.10.2-mediatek-filogic-huasifei_wh3000-pro-squashfs-sysupgrade.bin)
 
