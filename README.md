@@ -68,6 +68,8 @@ dMP dMP  VMMMP" dMP dMP  VMMMP" dMP dMP     dMMMMMP dMP
 
 [ImmortalWrt mt7981 24.10 from PadavanOnly with Mediatek HNAT](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/immortalwrt-mt798x-24.10%20PadavanOnly/immortalwrt-mediatek-filogic-huasifei_wh3000-pro-squashfs-sysupgrade.bin)
 
+[OpenWrt 24.10.2 vanilla with USB modems support](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/OpenWRT%2024.10.2%20USB%20modems/openwrt-24.10.2-mediatek-filogic-huasifei_wh3000-pro-squashfs-sysupgrade.bin)
+
 # Cudy TR3000 128mb (OpenWrt U-Boot layout)
 Vanilla OpenWRT 24.10.2 for maxed 114mb layout only! I've just cherry-picked [this PR](https://github.com/openwrt/openwrt/pull/17712) since it's still not merged into 24.10.x branch. Compatible with official ImmortalWRT 24.10.x u-boot layout, 93.25mb free space for packages after installation. Flash it only if you changed `FIP` to the ImmortalWrt (OpenWrt U-Boot layout) version! Otherwise, you will brick your device.
 
