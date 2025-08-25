@@ -60,15 +60,8 @@ dMP dMP  VMMMP" dMP dMP  VMMMP" dMP dMP     dMMMMMP dMP
          Huasifei WH3000 Pro, OpenWrt 24.10.2
 ```
 
-[OpenWrt 24.10.2](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/OpenWRT%2024.10.2/openwrt-24.10.2-mediatek-filogic-huasifei_wh3000-pro-squashfs-sysupgrade.bin)
-
-[luci-app-fancontrol](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/fancontrol/luci-app-fancontrol_1-17-r1_aarch64_cortex-a53.ipk) Fan Control for Huasifei WH3000 Pro on OpenWrt 24.10.x
-
-[Factory QWRT_R25.06.01](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/QWRT%20Factory%20Stock/QWRT_R25_06_01_mediatek_mt7981_huasifei_fudy_pro_squashfs_sysupgrade.bin)
-
-[ImmortalWrt mt7981 24.10 from PadavanOnly with Mediatek HNAT](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/immortalwrt-mt798x-24.10%20PadavanOnly/immortalwrt-mediatek-filogic-huasifei_wh3000-pro-squashfs-sysupgrade.bin)
-
-[OpenWrt 24.10.2 vanilla with USB modems support](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/OpenWRT%2024.10.2%20USB%20modems/openwrt-24.10.2-mediatek-filogic-huasifei_wh3000-pro-squashfs-sysupgrade.bin)
+[Clean OpenWrt 24.10.2 with fancontrol](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/OpenWRT%2024.10.2/openwrt-24.10.2-mediatek-filogic-huasifei_wh3000-pro-squashfs-sysupgrade.bin)
+[OpenWrt 24.10.2 with USB modems support](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/OpenWRT%2024.10.2%20USB%20modems/openwrt-24.10.2-mediatek-filogic-huasifei_wh3000-pro-squashfs-sysupgrade.bin)
 
 # Cudy TR3000 128mb (OpenWrt U-Boot layout)
 Vanilla OpenWRT 24.10.2 for maxed 114mb layout only! I've just cherry-picked [this PR](https://github.com/openwrt/openwrt/pull/17712) since it's still not merged into 24.10.x branch. Compatible with official ImmortalWRT 24.10.x u-boot layout, 93.25mb free space for packages after installation. Flash it only if you changed `FIP` to the ImmortalWrt (OpenWrt U-Boot layout) version! Otherwise, you will brick your device.
