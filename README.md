@@ -61,6 +61,7 @@ dMP dMP  VMMMP" dMP dMP  VMMMP" dMP dMP     dMMMMMP dMP
 ```
 
 [Clean OpenWrt 24.10.2 with fancontrol](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/OpenWRT%2024.10.2/openwrt-24.10.2-mediatek-filogic-huasifei_wh3000-pro-squashfs-sysupgrade.bin)
+
 [OpenWrt 24.10.2 with USB modems support](https://github.com/fildunsky/Fudy-MT3000/raw/refs/heads/main/OpenWRT%2024.10.2%20USB%20modems/openwrt-24.10.2-mediatek-filogic-huasifei_wh3000-pro-squashfs-sysupgrade.bin)
 
 # Cudy TR3000 128mb (OpenWrt U-Boot layout)
