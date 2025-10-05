@@ -1,4 +1,4 @@
-amneziawg-tools - 2.0.5-r1
+amneziawg-tools - 2.0.6-r1
 atinout - 0.9.1
 autocore-arm - 60
 base-files - 1861~14c492a8a5
@@ -68,8 +68,9 @@ jansson4 - 2.14-r3
 jq - 1.7.1-r1
 jshn - 2024.12.19~3868f47c-r1
 jsonfilter - 2025.04.18~8a86fb78-r1
-kernel - 6.6.95~43fde6249fe4c3b09acad8a582722e64-r1
+kernel - 6.6.95~580a7f64f2300f663135b3ae41c238a8-r1
 kmod-Airpi-gpio-fan - 6.6.95.1.0-r1
+kmod-amneziawg - 6.6.95.2.0.6-r1
 kmod-asn1-decoder - 6.6.95-r1
 kmod-ata-core - 6.6.95-r1
 kmod-conninfra - 6.6.95.bbf588-r1
@@ -243,6 +244,7 @@ kmod-usb-xhci-mtk - 6.6.95-r1
 kmod-usb2 - 6.6.95-r1
 kmod-usb3 - 6.6.95-r1
 kmod-warp - 6.6.95.20221209-3e6ae1-r1
+kmod-wireguard - 6.6.95-r1
 kmod-wwan - 6.6.95-r1
 kmod-zram - 6.6.95-r1
 kvcedit - 1
@@ -343,7 +345,6 @@ luci-app-3ginfo-lite - 1.0.77-free-r20250826
 luci-app-argon-config - 1.0-r20230608
 luci-app-diskman - 0.2.13-r1
 luci-app-eqos-mtk - 25.170.79304~27c0f70
-luci-app-fancontrol - 1.0-r1
 luci-app-filebrowser-go - 25.238.43495~488a62f
 luci-app-firewall - 25.238.43495~488a62f
 luci-app-modemband - 1.0.26-free-r20250826
@@ -351,7 +352,7 @@ luci-app-mtwifi-cfg - 1-r1
 luci-app-nft-qos - 25.238.43495~488a62f
 luci-app-package-manager - 25.238.43495~488a62f
 luci-app-sms-tool-js - 2.0.30-free-r20250916
-luci-app-ssclash - 3.1.0-r1
+luci-app-ssclash - 3.3.0-r1
 luci-app-travelmate - 25.238.43495~488a62f
 luci-app-ttyd - 25.238.43495~488a62f
 luci-app-turboacc-mtk - 25.180.07259~6eecc9c
@@ -364,7 +365,6 @@ luci-i18n-amneziawg-ru - 25.268.61802~e64ceed
 luci-i18n-argon-config-ru - 25.241.37433~f22e7cf
 luci-i18n-base-ru - 25.238.43495~488a62f
 luci-i18n-dashboard-ru - 25.238.43495~488a62f
-luci-i18n-fancontrol-ru - 25.243.34153~43f8f8b
 luci-i18n-firewall-ru - 25.238.43495~488a62f
 luci-i18n-modemband-ru - 25.238.43495~488a62f
 luci-i18n-nft-qos-ru - 25.238.43495~488a62f
@@ -385,7 +385,7 @@ luci-mod-dashboard - 25.238.43495~488a62f
 luci-mod-network - 25.238.43495~488a62f
 luci-mod-status - 25.238.43495~488a62f
 luci-mod-system - 25.238.43495~488a62f
-luci-proto-amneziawg - 2.0.5-r1
+luci-proto-amneziawg - 2.0.6-r1
 luci-proto-ipv6 - 25.238.43495~488a62f
 luci-proto-mbim - 25.238.43495~488a62f
 luci-proto-modemmanager - 25.238.43495~488a62f
@@ -393,6 +393,7 @@ luci-proto-ncm - 25.238.43495~488a62f
 luci-proto-ppp - 25.238.43495~488a62f
 luci-proto-qmi - 25.238.43495~488a62f
 luci-proto-quectel - 25.238.43495~488a62f
+luci-proto-wireguard - 25.238.43495~488a62f
 luci-proto-xmm - 0
 luci-theme-argon - 2.4.3-r20250722
 luci-theme-bootstrap - 25.238.43495~488a62f
@@ -485,6 +486,7 @@ usign - 2020.05.23~f1f65026-r1
 wget-ssl - 1.24.5-r1
 wifi-dats - 1
 wifi-scripts - 1.0-r1
+wireguard-tools - 1.0.20210914-r4
 wireless-regdb - 2025.02.20-r1
 wireless-tools - 29-r6
 wpad-openssl - 2024.09.15~5ace39b0-r2
