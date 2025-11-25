@@ -1,7 +1,7 @@
 amneziawg-tools - 2.0.7-r1
 atinout - 0.9.1
 autocore-arm - 60
-base-files - 1861~8f9ee218f9
+base-files - 1861~ac4abd1fc0
 bash - 5.2.32-r1
 bc - 1.07.1-r1
 blkid - 2.40.2-r1
@@ -357,6 +357,7 @@ luci-app-travelmate - 25.238.43495~488a62f
 luci-app-ttyd - 25.238.43495~488a62f
 luci-app-turboacc-mtk - 25.180.07259~6eecc9c
 luci-app-uhttpd - 25.238.43495~488a62f
+luci-app-wifischedule - 25.238.43495~488a62f
 luci-app-wrtbwmon - 2.0.13-r1
 luci-app-zerotier - 25.238.43495~488a62f
 luci-base - 25.238.43495~488a62f
@@ -374,6 +375,7 @@ luci-i18n-sms-tool-js-ru - 25.238.43495~488a62f
 luci-i18n-travelmate-ru - 25.238.43495~488a62f
 luci-i18n-ttyd-ru - 25.238.43495~488a62f
 luci-i18n-uhttpd-ru - 25.238.43495~488a62f
+luci-i18n-wifischedule-ru - 25.238.43495~488a62f
 luci-lib-base - 25.238.43495~488a62f
 luci-lib-ip - 25.238.43495~488a62f
 luci-lib-ipkg - 25.238.43495~488a62f
@@ -407,7 +409,7 @@ modemband - 20250826
 modemmanager - 1.22.0-r20
 mtd - 26
 mtk-smp - 1
-mtkhqos_util - 1-r33415-8f9ee218f9
+mtkhqos_util - 1-r33425-ac4abd1fc0
 mtwifi-cfg - 1-r1
 nano-full - 8.6-r1
 ndisc6 - 1.0.2-r1
@@ -488,6 +490,7 @@ usign - 2020.05.23~f1f65026-r1
 wget-ssl - 1.24.5-r1
 wifi-dats - 1
 wifi-scripts - 1.0-r1
+wifischedule - 1.1.0-r0
 wireguard-tools - 1.0.20210914-r4
 wireless-regdb - 2025.02.20-r1
 wireless-tools - 29-r6
