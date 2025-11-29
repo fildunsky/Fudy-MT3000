@@ -1,0 +1,111 @@
+CONFIG_TARGET_mediatek=y
+CONFIG_TARGET_mediatek_filogic=y
+CONFIG_TARGET_mediatek_filogic_DEVICE_cudy_tr3000-v1-ubootmod=y
+CONFIG_ALL_KMODS=y
+CONFIG_ALL_NONSHARED=y
+CONFIG_DEVEL=y
+CONFIG_AUTOREMOVE=y
+CONFIG_BUILDBOT=y
+CONFIG_COLLECT_KERNEL_DEBUG=y
+CONFIG_IMAGEOPT=y
+CONFIG_JSON_CYCLONEDX_SBOM=y
+CONFIG_KERNEL_BUILD_DOMAIN="buildhost"
+CONFIG_KERNEL_BUILD_USER="builder"
+# CONFIG_KERNEL_KALLSYMS is not set
+CONFIG_OPENSSL_ENGINE=y
+CONFIG_OPENSSL_WITH_ASM=y
+CONFIG_OPENSSL_WITH_CHACHA_POLY1305=y
+CONFIG_OPENSSL_WITH_CMS=y
+CONFIG_OPENSSL_WITH_DEPRECATED=y
+CONFIG_OPENSSL_WITH_ERROR_MESSAGES=y
+CONFIG_OPENSSL_WITH_IDEA=y
+CONFIG_OPENSSL_WITH_MDC2=y
+CONFIG_OPENSSL_WITH_PSK=y
+CONFIG_OPENSSL_WITH_SEED=y
+CONFIG_OPENSSL_WITH_SRP=y
+CONFIG_OPENSSL_WITH_TLS13=y
+CONFIG_OPENSSL_WITH_WHIRLPOOL=y
+CONFIG_PACKAGE_cgi-io=y
+CONFIG_PACKAGE_cudy-bdinfo=y
+CONFIG_PACKAGE_e2fsprogs=m
+CONFIG_PACKAGE_f2fsck=m
+CONFIG_PACKAGE_fdisk=m
+CONFIG_PACKAGE_kmod-mii=y
+CONFIG_PACKAGE_kmod-mtd-rw=y
+CONFIG_PACKAGE_kmod-usb-net=y
+CONFIG_PACKAGE_kmod-usb-net-cdc-ether=y
+CONFIG_PACKAGE_kmod-usb-net-cdc-mbim=y
+CONFIG_PACKAGE_kmod-usb-net-cdc-ncm=y
+CONFIG_PACKAGE_kmod-usb-net-qmi-wwan=y
+CONFIG_PACKAGE_kmod-usb-serial=y
+CONFIG_PACKAGE_kmod-usb-serial-option=y
+CONFIG_PACKAGE_kmod-usb-serial-wwan=y
+CONFIG_PACKAGE_kmod-usb-wdm=y
+CONFIG_PACKAGE_libblkid=m
+CONFIG_PACKAGE_libcomerr=m
+CONFIG_PACKAGE_libe2p=m
+CONFIG_PACKAGE_libext2fs=m
+CONFIG_PACKAGE_libf2fs=m
+CONFIG_PACKAGE_libfdisk=m
+CONFIG_PACKAGE_liblucihttp=y
+CONFIG_PACKAGE_liblucihttp-ucode=y
+CONFIG_PACKAGE_libncurses=m
+CONFIG_PACKAGE_libopenssl=y
+CONFIG_PACKAGE_libsmartcols=m
+CONFIG_PACKAGE_libss=m
+CONFIG_PACKAGE_libuuid=m
+CONFIG_PACKAGE_luci=y
+CONFIG_PACKAGE_luci-app-firewall=y
+CONFIG_PACKAGE_luci-app-package-manager=y
+CONFIG_PACKAGE_luci-base=y
+CONFIG_PACKAGE_luci-light=y
+CONFIG_PACKAGE_luci-mod-admin-full=y
+CONFIG_PACKAGE_luci-mod-network=y
+CONFIG_PACKAGE_luci-mod-status=y
+CONFIG_PACKAGE_luci-mod-system=y
+CONFIG_PACKAGE_luci-proto-ipv6=y
+CONFIG_PACKAGE_luci-proto-ppp=y
+CONFIG_PACKAGE_luci-ssl=y
+CONFIG_PACKAGE_luci-theme-bootstrap=y
+CONFIG_PACKAGE_mkf2fs=m
+CONFIG_PACKAGE_mt7986-wo-firmware=m
+CONFIG_PACKAGE_mt7988-2p5g-phy-firmware=m
+CONFIG_PACKAGE_mt7988-wo-firmware=m
+CONFIG_PACKAGE_partx-utils=m
+CONFIG_PACKAGE_px5g-mbedtls=y
+CONFIG_PACKAGE_rpcd=y
+CONFIG_PACKAGE_rpcd-mod-file=y
+CONFIG_PACKAGE_rpcd-mod-iwinfo=y
+CONFIG_PACKAGE_rpcd-mod-luci=y
+CONFIG_PACKAGE_rpcd-mod-rrdns=y
+CONFIG_PACKAGE_rpcd-mod-ucode=y
+CONFIG_PACKAGE_terminfo=m
+# CONFIG_PACKAGE_trusted-firmware-a-mt7981-ram-ddr3 is not set
+# CONFIG_PACKAGE_trusted-firmware-a-mt7981-ram-ddr4 is not set
+# CONFIG_PACKAGE_trusted-firmware-a-mt7986-ram-ddr3 is not set
+# CONFIG_PACKAGE_trusted-firmware-a-mt7986-ram-ddr4 is not set
+# CONFIG_PACKAGE_trusted-firmware-a-mt7988-ram-comb is not set
+CONFIG_PACKAGE_ucode-mod-html=y
+CONFIG_PACKAGE_ucode-mod-math=y
+CONFIG_PACKAGE_uhttpd=y
+CONFIG_PACKAGE_uhttpd-mod-ubus=y
+CONFIG_PACKAGE_zyxel-bootconfig=m
+CONFIG_REPRODUCIBLE_DEBUG_INFO=y
+CONFIG_TARGET_ROOTFS_PARTSIZE=112
+CONFIG_VERSIONOPT=y
+CONFIG_VERSION_BUG_URL=""
+CONFIG_VERSION_CODE=""
+CONFIG_VERSION_DIST="OpenWrt"
+CONFIG_VERSION_FILENAMES=y
+CONFIG_VERSION_HOME_URL=""
+CONFIG_VERSION_HWREV=""
+CONFIG_VERSION_MANUFACTURER=""
+CONFIG_VERSION_MANUFACTURER_URL=""
+CONFIG_VERSION_NUMBER=""
+CONFIG_VERSION_PRODUCT=""
+CONFIG_VERSION_REPO="https://downloads.openwrt.org/releases/24.10.4"
+CONFIG_VERSION_SUPPORT_URL=""
+# CONFIG_IB is not set
+# CONFIG_MAKE_TOOLCHAIN is not set
+# CONFIG_SDK is not set
+# CONFIG_SDK_LLVM_BPF is not set
