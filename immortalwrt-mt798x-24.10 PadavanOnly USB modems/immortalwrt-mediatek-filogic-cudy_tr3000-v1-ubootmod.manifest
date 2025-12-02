@@ -1,7 +1,7 @@
-amneziawg-tools - 2.0.7-r1
+amneziawg-tools - 2.0.8-r1
 atinout - 0.9.1
 autocore-arm - 60
-base-files - 1861~ac4abd1fc0
+base-files - 1861~e6202d3fd3
 bash - 5.2.32-r1
 bc - 1.07.1-r1
 blkid - 2.40.2-r1
@@ -15,6 +15,7 @@ cgi-io - 2022.08.10~901b0f04-r21
 chat - 2.5.1-r1
 comgt - 0.32-r36
 comgt-ncm - 0.32-r36
+cudy-bdinfo - 2023.06.01~5a60308c-r1
 curl - 8.12.1-r1
 datconf - 1
 datconf-lua - 1
@@ -70,7 +71,7 @@ jshn - 2024.12.19~3868f47c-r1
 jsonfilter - 2025.04.18~8a86fb78-r1
 kernel - 6.6.95~580a7f64f2300f663135b3ae41c238a8-r1
 kmod-Airpi-gpio-fan - 6.6.95.1.0-r1
-kmod-amneziawg - 6.6.95.2.0.7-r1
+kmod-amneziawg - 6.6.95.2.0.8-r1
 kmod-asn1-decoder - 6.6.95-r1
 kmod-ata-core - 6.6.95-r1
 kmod-conninfra - 6.6.95.bbf588-r1
@@ -389,7 +390,7 @@ luci-mod-dashboard - 25.238.43495~488a62f
 luci-mod-network - 25.238.43495~488a62f
 luci-mod-status - 25.238.43495~488a62f
 luci-mod-system - 25.238.43495~488a62f
-luci-proto-amneziawg - 2.0.7-r1
+luci-proto-amneziawg - 2.0.8-r1
 luci-proto-ipv6 - 25.238.43495~488a62f
 luci-proto-mbim - 25.238.43495~488a62f
 luci-proto-modemmanager - 25.238.43495~488a62f
@@ -409,7 +410,7 @@ modemband - 20250826
 modemmanager - 1.22.0-r20
 mtd - 26
 mtk-smp - 1
-mtkhqos_util - 1-r33425-ac4abd1fc0
+mtkhqos_util - 1-r33444-e6202d3fd3
 mtwifi-cfg - 1-r1
 nano-full - 8.6-r1
 ndisc6 - 1.0.2-r1
@@ -442,15 +443,6 @@ rpcd-mod-luci - 20240305-r1
 rpcd-mod-rpcsys - 2024.09.17~9f4b86e7-r1
 rpcd-mod-rrdns - 20170710
 rpcd-mod-ucode - 2024.09.17~9f4b86e7-r1
-ruby - 3.3.9-r1
-ruby-bigdecimal - 3.3.9-r1
-ruby-date - 3.3.9-r1
-ruby-digest - 3.3.9-r1
-ruby-enc - 3.3.9-r1
-ruby-pstore - 3.3.9-r1
-ruby-psych - 3.3.9-r1
-ruby-stringio - 3.3.9-r1
-ruby-yaml - 3.3.9-r1
 shellsync - 0.2-r2
 smartmontools - 7.4-r1
 sms-tool - 2021.08.24~57a68d07-r1
