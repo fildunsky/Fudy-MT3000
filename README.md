@@ -1,7 +1,7 @@
 This repo started as an OpenWrt firmware storage for one device, but now has these firmwares:
-- Airpi AP3000M
+- Airpi AP3000M / Hiveton H5000M
 - CMCC RAX3000M/Me
-- Cudy TR3000 128/256 mb
+- Cudy TR3000 128/256/512 mb
 - gl.inet GL-MT3000 (Beryl AX)
 - Huasifei WH3000 / WH3000 Pro
 - Xiaomi AX3000T
