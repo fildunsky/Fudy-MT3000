@@ -2,9 +2,11 @@ base-files - 1668~d9c5716d1d
 busybox - 1.36.1-r2
 ca-bundle - 20250419-r1
 cgi-io - 2022.08.10~901b0f04-r21
+cudy-bdinfo - 2023.06.01~5a60308c-r1
 dnsmasq - 2.90-r4
 dropbear - 2024.86-r2
 eip197-mini-firmware - 20241110-r2
+f2fsck - 1.16.0-r3
 firewall4 - 2024.12.18~18fc0ead-r1
 fitblk - 2
 fstools - 2024.07.14~408c2cc4-r1
@@ -81,6 +83,7 @@ kmod-usb-xhci-mtk - 6.6.119-r1
 kmod-usb3 - 6.6.119-r1
 libblobmsg-json20240329 - 2025.07.23~49056d17-r1
 libc - 1.2.5-r4
+libf2fs6 - 1.16.0-r3
 libgcc1 - 13.3.0-r4
 libiwinfo-data - 2024.10.20~b94f066e-r1
 libiwinfo20230701 - 2024.10.20~b94f066e-r1
@@ -92,7 +95,9 @@ libmbedtls21 - 3.6.5-r1
 libmnl0 - 1.0.5-r1
 libnftnl11 - 1.2.8-r1
 libnl-tiny1 - 2025.03.19~c0df580a-r1
+libopenssl3 - 3.0.18-r1
 libpthread - 1.2.5-r4
+librt - 1.2.5-r4
 libubox20240329 - 2025.07.23~49056d17-r1
 libubus20250102 - 2025.10.17~60e04048-r1
 libuci20250120 - 2025.01.20~16ff0bad-r1
@@ -100,6 +105,7 @@ libuclient20201210 - 2024.10.22~88ae8f20-r1
 libucode20230711 - 2025.07.18~3f64c808-r1
 libudebug - 2025.08.24~edeb4d6d
 libustream-mbedtls20201210 - 2024.07.28~99bd3d2b-r1
+libuuid1 - 2.40.2-r1
 logd - 2024.04.26~85f10530-r1
 luci - 25.340.26705~d88390b
 luci-app-firewall - 25.340.26705~d88390b
@@ -114,6 +120,7 @@ luci-proto-ipv6 - 25.340.26705~d88390b
 luci-proto-ppp - 25.340.26705~d88390b
 luci-ssl - 25.340.26705~d88390b
 luci-theme-bootstrap - 25.340.26705~d88390b
+mkf2fs - 1.16.0-r3
 mt7981-wo-firmware - 20241110-r2
 mtd - 26
 netifd - 2025.05.23~7901e66c-r1
