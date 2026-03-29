@@ -29,6 +29,7 @@ glib2 - 2.82.0-r1
 hostapd-common - 2025.08.26~ca266cc2-r1
 ip-tiny - 6.18.0-r2
 iw - 6.17-r1
+iwinfo - 2026.01.14~f5dd57a8-r1
 jansson4 - 2.14.1-r1
 jshn - 2026.03.13~81563384-r2
 jsonfilter - 2026.03.16~b9034210-r1
@@ -109,6 +110,8 @@ kmod-usb-net-cdc-ether - 6.12.74-r1
 kmod-usb-net-cdc-mbim - 6.12.74-r1
 kmod-usb-net-cdc-ncm - 6.12.74-r1
 kmod-usb-net-qmi-wwan - 6.12.74-r1
+kmod-usb-net-qmi-wwan-fibocom - 6.12.74.1.0.5-r4
+kmod-usb-net-qmi-wwan-quectel - 6.12.74.1.2.9-r2
 kmod-usb-net-rndis - 6.12.74-r1
 kmod-usb-serial - 6.12.74-r1
 kmod-usb-serial-option - 6.12.74-r1
@@ -178,6 +181,7 @@ luci-app-modemband - 1.0.26-r20250826
 luci-app-package-manager - 26.086.74393~c8e95f1
 luci-app-sms-tool-js - 2.0.30-r20250916
 luci-app-ssclash - 3.8.0-r1
+luci-app-travelmate - 2.4.0-r2
 luci-app-zerotier - 25.348.34969~14fd52c
 luci-base - 26.086.74393~c8e95f1
 luci-compat - 26.086.74393~c8e95f1
@@ -207,6 +211,7 @@ luci-proto-mbim - 26.086.74393~c8e95f1
 luci-proto-modemmanager - 26.086.74393~c8e95f1
 luci-proto-ppp - 26.086.74393~c8e95f1
 luci-proto-qmi - 26.086.74393~c8e95f1
+luci-proto-quectel - 25.180.53454~71794d8
 luci-proto-xmm - 0
 luci-theme-bootstrap - 26.086.74393~c8e95f1
 luci-theme-proton2025 - 26.063.62378~bf27309
@@ -228,6 +233,7 @@ ppp-mod-pppoe - 2.5.2-r3
 procd - 2026.03.13~58eb263d-r1
 procd-seccomp - 2026.03.13~58eb263d-r1
 procd-ujail - 2026.03.13~58eb263d-r1
+quectel-cm - 1.6.8-r1
 resolveip - 2
 rpcd - 2025.12.03~ffb9961c-r1
 rpcd-mod-file - 2025.12.03~ffb9961c-r1
@@ -238,6 +244,7 @@ rpcd-mod-rrdns - 20170710
 rpcd-mod-ucode - 2025.12.03~ffb9961c-r1
 sms-tool - 2025.08.23~491ffdb0-r1
 terminfo - 6.4-r3
+travelmate - 2.4.0-r2
 ubi-utils - 2.3.0-r1
 uboot-envtools - 2025.10-r1
 ubox - 2025.10.30~6f78fa49-r1
