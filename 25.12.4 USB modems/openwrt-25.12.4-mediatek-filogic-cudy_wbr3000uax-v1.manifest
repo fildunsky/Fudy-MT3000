@@ -30,7 +30,6 @@ glib2 - 2.82.0-r1
 hostapd-common - 2025.08.26~ca266cc2-r1
 ip-tiny - 6.18.0-r2
 iw - 6.17-r1
-iwinfo - 2026.01.14~f5dd57a8-r1
 jansson4 - 2.14.1-r1
 jshn - 2026.03.13~81563384-r2
 jsonfilter - 2026.03.16~b9034210-r1
@@ -189,13 +188,11 @@ luci - 26.134.75701~cd18b8e
 luci-app-3ginfo-lite - 1.0.77-r20250826
 luci-app-attendedsysupgrade - 26.134.75701~cd18b8e
 luci-app-epm - 1.0.1-r1
-luci-app-fancontrol - 3.1.3-r1
 luci-app-firewall - 26.134.75701~cd18b8e
 luci-app-modemband - 1.0.26-r20250826
 luci-app-package-manager - 26.134.75701~cd18b8e
 luci-app-sms-tool-js - 2.0.30-r20250916
 luci-app-ssclash - 4.5.1-r1
-luci-app-travelmate - 2.4.5-r1
 luci-app-ttl - 0.0.5-r3
 luci-app-ttyd - 26.134.75701~cd18b8e
 luci-app-zerotier - 26.122.31359~3e514b4
@@ -260,7 +257,6 @@ rpcd-mod-rrdns - 20170710
 rpcd-mod-ucode - 2025.12.03~ffb9961c-r1
 sms-tool - 2025.08.23~491ffdb0-r1
 terminfo - 6.4-r3
-travelmate - 2.4.5-r1
 ttyd - 1.7.7-r1
 ubi-utils - 2.3.0-r1
 uboot-envtools - 2025.10-r2

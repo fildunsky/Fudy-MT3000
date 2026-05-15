@@ -189,7 +189,6 @@ luci - 26.134.75701~cd18b8e
 luci-app-3ginfo-lite - 1.0.77-r20250826
 luci-app-attendedsysupgrade - 26.134.75701~cd18b8e
 luci-app-epm - 1.0.1-r1
-luci-app-fancontrol - 3.1.3-r1
 luci-app-firewall - 26.134.75701~cd18b8e
 luci-app-modemband - 1.0.26-r20250826
 luci-app-package-manager - 26.134.75701~cd18b8e
